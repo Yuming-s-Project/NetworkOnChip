@@ -1,0 +1,123 @@
+C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkRouterInputArbitersRoundRobin.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkRouterInputArbitersRoundRobin.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module mkRouterInputArbitersRoundRobin
+
+Top level modules:
+	mkRouterInputArbitersRoundRobin
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/RegFileLoadSyn.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/RegFileLoadSyn.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module RegFileLoadSyn
+
+Top level modules:
+	RegFileLoadSyn
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkRouterOutputArbitersRoundRobin.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkRouterOutputArbitersRoundRobin.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module mkRouterOutputArbitersRoundRobin
+
+Top level modules:
+	mkRouterOutputArbitersRoundRobin
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/module_outport_encoder.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/module_outport_encoder.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module module_outport_encoder
+
+Top level modules:
+	module_outport_encoder
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkInputArbiter.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkInputArbiter.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module mkInputArbiter
+
+Top level modules:
+	mkInputArbiter
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkInputVCQueues.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkInputVCQueues.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module mkInputVCQueues
+
+Top level modules:
+	mkInputVCQueues
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkSepRouterAllocator.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkSepRouterAllocator.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module mkSepRouterAllocator
+
+Top level modules:
+	mkSepRouterAllocator
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkOutputArbiter.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkOutputArbiter.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module mkOutputArbiter
+
+Top level modules:
+	mkOutputArbiter
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkRouterCore.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkRouterCore.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module mkRouterCore
+
+Top level modules:
+	mkRouterCore
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/RegFile_1port.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/RegFile_1port.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module RegFile_1port
+
+Top level modules:
+	RegFile_1port
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkRouterInputArbitersStatic.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkRouterInputArbitersStatic.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module mkRouterInputArbitersStatic
+
+Top level modules:
+	mkRouterInputArbitersStatic
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/Lab6.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/Lab6.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module Lab6
+
+Top level modules:
+	Lab6
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/connect_parameters.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/connect_parameters.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkRouterOutputArbitersStatic.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkRouterOutputArbitersStatic.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module mkRouterOutputArbitersStatic
+
+Top level modules:
+	mkRouterOutputArbitersStatic
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkOutPortFIFO.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkOutPortFIFO.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module mkOutPortFIFO
+
+Top level modules:
+	mkOutPortFIFO
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/testbench_sample.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/testbench_sample.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module Lab6_test
+
+Top level modules:
+	Lab6_test
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkNetwork.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/mkNetwork.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module mkNetwork
+
+Top level modules:
+	mkNetwork
+
+} {} {}} C:/Users/Shawn/Desktop/Research/EE454/NoC/build/module_gen_grant_carry.v {1 {vlog -work work -vopt -stats=none C:/Users/Shawn/Desktop/Research/EE454/NoC/build/module_gen_grant_carry.v
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling module module_gen_grant_carry
+
+Top level modules:
+	module_gen_grant_carry
+
+} {} {}}
